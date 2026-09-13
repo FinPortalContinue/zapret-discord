@@ -1,0 +1,20 @@
+# zapret-discord
+
+> Обновлённая версия с поддержкой работы Discord. Надежнее, быстрее, стабильнее
+
+zapret-discord чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут.
+
+## Страницы
+- Сайт: https://finportalcontinue.github.io/zapret-discord/
+- Релиз: https://github.com/FinPortalContinue/zapret-discord/releases/latest
+- Исходный код: https://github.com/FinPortalContinue/zapret-discord
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Discord
+- Discord не подключается
+- Discord connecting исправить
+- голосовой чат Discord не работает
+- zapret Discord
+
+Windows 10/11, без VPN, бесплатно.
